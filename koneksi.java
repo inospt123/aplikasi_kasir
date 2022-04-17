@@ -1,7 +1,4 @@
 
-//eva_nurvaizah
-//eva_nurvaizah_projekPJBLKasir
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
